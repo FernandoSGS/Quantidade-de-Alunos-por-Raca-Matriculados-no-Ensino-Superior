@@ -14,3 +14,7 @@ Existem arquivos grandes demais para o github, baixar em separado os seguintes a
 *Link Dropbox*: https://www.dropbox.com/sh/ks42y6icbfhg2bu/AAAUE9C0jrX9yInROgHEWyrLa?dl=0
 
 **Aviso Importante:** É necessário que os arquivos *Aluno09.csv, Aluno10.csv, Aluno12.csv, Aluno14.csv, Aluno16.csv* e *Aluno18.csv* encontrados no link do DropBox estejam no mesmo diretório onde os arquivos *Quantidade de Alunos por Raça Matriculados no Ensino Superior.ipynb* e *Extração de dados.ipynb* se encontram.
+
+
+
+**Trabalho realizado por:** *Fernando Soares Gomes da Silva* e *Celso Adriano de Andrade dos Reis*; estudantes de Análise e Desenvolvimento de Sistemas.
