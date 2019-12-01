@@ -1,0 +1,118 @@
+2009
+'CO_IES':Código único de identificação da IES
+
+'NU_IDADE_ALUNO': Idade do aluno
+
+'IN_SEXO_ALUNO': Sexo do aluno
+0. Masculino
+1. Feminino
+
+'CO_COR_RACA_ALUNO': Raça/Cor aluno
+1. Branca
+2. Preta
+3. Parda
+4. Amarela
+5. Indígena
+6. Não dispõe da informação
+0. Não declarado
+
+2010
+'CO_IES':Código único de identificação da IES
+
+'NU_IDADE_ALUNO': Idade do aluno
+
+'IN_SEXO_ALUNO': Sexo do aluno
+0. Masculino
+1. Feminino
+
+'CO_COR_RACA_ALUNO': Raça/Cor aluno
+1. Branca
+2. Preta
+3. Parda
+4. Amarela
+5. Indígena
+6. Não dispõe da informação
+0. Não declarado
+
+
+
+2012
+'CO_IES':Código único de identificação da IES
+
+'NU_IDADE_ALUNO': Idade do aluno
+
+'IN_SEXO_ALUNO': Sexo do aluno
+0. Masculino
+1. Feminino
+
+'CO_COR_RACA_ALUNO': Raça/Cor aluno
+1. Branca
+2. Preta
+3. Parda
+4. Amarela
+5. Indígena
+6. Não dispõe da informação
+0. Não declarado
+
+2014
+'CO_IES':Código único de identificação da IES
+
+'NU_IDADE_ALUNO': Idade do aluno
+
+'IN_SEXO_ALUNO': Sexo do aluno
+0. Masculino
+1. Feminino
+
+'CO_COR_RACA_ALUNO': Raça/Cor aluno
+1. Branca
+2. Preta
+3. Parda
+4. Amarela
+5. Indígena
+6. Não dispõe da informação
+0. Não declarado
+
+2016
+'CO_IES':Código único de identificação da IES
+
+'NU_IDADE_ALUNO': Idade do aluno
+
+'IN_SEXO_ALUNO': Sexo do aluno
+0. Masculino
+1. Feminino
+
+'CO_COR_RACA_ALUNO': Raça/Cor aluno
+1. Branca
+2. Preta
+3. Parda
+4. Amarela
+5. Indígena
+6. Não dispõe da informação
+0. Não declarado
+
+2018
+'CO_IES':Código único de identificação da IES
+
+'NU_IDADE': Idade do aluno
+
+'TP_SEXO': Sexo do aluno
+1. Masculino
+2. Feminino
+
+'TP_COR_RACA': Raça/Cor aluno
+1. Branca
+2. Preta
+3. Parda
+4. Amarela
+5. Indígena
+9. Não dispõe da informação
+0. Não declarado
+
+
+
+
+
+
+
+
+
